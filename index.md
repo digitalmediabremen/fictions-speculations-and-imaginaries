@@ -17,4 +17,4 @@ with contributions from:
 - Lilly Hoffmann
 - Zwe Oak Soe
 
-initated by Henrik Nieratschker and Prof Dennis P Paul
+The project was initiated by Henrik Nieratschker and Prof Dennis P Paul
